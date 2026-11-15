@@ -1,0 +1,11 @@
+DUONG MUSIC — HƯỚNG DẪN HOÀN TẤT
+
+1. Mở index.html để xem website.
+2. File báo cáo: 2552210123_TrinhDuyDuong_BaoCao.docx (mở Word, Ctrl+A rồi F9 để cập nhật mục lục).
+3. Mã học phần: đề thi gốc ghi INF2501, bạn cung cấp INF2501_6. Website đang dùng INF2501_6. XÁC NHẬN trước khi nộp.
+4. Chụp ảnh thật và gửi ChatGPT để tôi đưa vào bản cuối: Bài 1 (File Explorer), Bài 2 (nguồn học thuật), Bài 3 (hai kết quả AI), Bài 4 (bảng nhiệm vụ và bình luận nhóm).
+5. Bài 5 có PDF bộ 6 thẻ tiết tấu, mở từ trang Bài 5.
+6. Cần tự xác nhận phần cảm nhận/tự đánh giá; điền lớp và URL trong Word.
+7. Xuất bản website lên dịch vụ lưu trữ web tĩnh và kiểm tra URL công khai trước khi nộp.
+
+LƯU Ý: Khung minh chứng trên website không phải ảnh chụp thật. Khi gửi ảnh, tôi sẽ tích hợp và loại bỏ khung trống. Không nên nộp khi chưa có minh chứng theo yêu cầu đề thi.

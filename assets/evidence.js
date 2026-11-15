@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('[data-evidence]').forEach(slot=>{const img=new Image();img.alt=slot.querySelector('span')?.textContent||'Ảnh minh chứng';img.onload=()=>{slot.replaceChildren(img);slot.classList.add('has-image')};img.src='assets/minhchung/'+slot.dataset.evidence})});
